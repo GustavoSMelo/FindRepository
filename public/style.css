@@ -1,0 +1,19 @@
+@charset "utf8";
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img{
+    width: 150px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+strong, a{
+    margin: 10px;
+}
