@@ -2,6 +2,9 @@
 
 *{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: #303030;
+    color: #fff;
 }
 
 img{
@@ -14,6 +17,39 @@ ul{
     list-style-type: none;
 }
 
+li{
+    margin: 10px;
+}
+
 strong, a{
     margin: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: #3380fd;
+}
+
+button{
+    background-color: #4cbb4c;
+    border: none;
+    border-radius: 10px;
+    width: 100px;
+    height: 42px;
+    margin: 5px;
+    color: #000;
+}
+
+input{
+    color: #000;
+    background-color: #fff;
+    width: 230px;
+    height: 30px;
+    border: none;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+footer{
+    margin: 30px;
 }
